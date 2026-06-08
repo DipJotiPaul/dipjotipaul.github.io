@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 Hello, I am a PhD candidate at MIT EECS, working as a research assistant in the <a href="https://qnn-rle.mit.edu/" target="_blank" rel="noopener noreferrer">Quantum Nanostructures and Nanofabrication Group</a>, led by <a href="https://www.eecs.mit.edu/people/karl-berggren/" target="_blank" rel="noopener noreferrer">Prof. Karl Berggren</a>. 
-My PhD research focuses on the development of high-performance cryogenic single-photon detectors based on superconducting nanowires (SNSPDs) for quantum sensing and mid-infrared imaging. 
-One of my primary research areas involves high-critical-temperature superconducting materials, particularly yttrium barium copper oxide (YBCO), to enable single-photon-counting technologies that operate at substantially higher temperatures than conventional SNSPD platforms, thereby reducing cooling requirements and expanding their accessibility to broader scientific and technological applications. 
+My PhD research focuses on the development of high-performance cryogenic single-photon detectors based on superconducting nanowires (<a href="https://en.wikipedia.org/wiki/Superconducting_nanowire_single-photon_detector" target="_blank" rel="noopener noreferrer">SNSPDs</a>) for quantum sensing and mid-infrared imaging.
+One of my primary research areas involves high-critical-temperature superconducting materials, particularly yttrium barium copper oxide (<a href="https://en.wikipedia.org/wiki/Yttrium_barium_copper_oxide" target="_blank" rel="noopener noreferrer">YBa₂Cu₃O₇₋ₓ</a>), to enable single-photon-counting technologies that operate at substantially higher temperatures than conventional SNSPD platforms, thereby reducing cooling requirements and expanding their accessibility to broader scientific and technological applications.
 In parallel, I work on detector architectures to improve the efficiency of mid-infrared SNSPDs and am interested in applying these detectors to fundamental physics experiments, including dark matter search experiments.
 
 I am a recipient of the 2026 IEEE Council on Superconductivity (CSC) Graduate Fellowship, the 2025–2026 MathWorks Fellowship, and the MIT RLE Claude E. Shannon Fellowship. 
@@ -17,7 +17,7 @@ Prior to attending MIT, I received my Bachelor's and Master's degrees in Electri
 News
 ------
 <div style="font-size:0.88em;">
-- 06/2026: Awarded the IEEE Council on Superconductivity (CSC) Graduate Fellowship<br>
+- 06/2026: Awarded the 2026 <a href="https://ieeecsc.org/award/fellowship-award/csc-graduate-study-fellowship-asc" target="_blank" rel="noopener noreferrer">IEEE Council on Superconductivity (CSC) Graduate Fellowship</a><br>
 - 08/2025: Awarded the MIT RLE Claude E. Shannon Fellowship; featured in the <a href="https://westonobserver.org/2025-12-05_mit-fellows-visit-weston-middle-school_chris-larabee_melissa-russell" target="_blank" rel="noopener noreferrer">Weston Observer</a><br>
 - 05/2025: Awarded the <a href="https://engineering.mit.edu/graduate/mathworks-fellowships#currentfellows" target="_blank" rel="noopener noreferrer">MathWorks Engineering Fellowship</a> for AY 2025–26<br>
 - 08/2024: Contributed to a DOE-funded proposal on large-area SNSPD systems for dark matter searches (awarded 12/2024; <a href="https://thequantuminsider.com/2025/01/17/department-of-energy-announces-71-million-for-research-on-qis-enabled-high-energy-physics/" target="_blank" rel="noopener noreferrer">news article</a>)<br>
