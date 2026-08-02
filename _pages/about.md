@@ -31,7 +31,7 @@ Selected Publications
 <div style="font-size:0.88em;">
 <strong>Superconducting Single-Photon Detectors and Electronics</strong><br>
 
-5. <a href="https://arxiv.org/abs/2604.18155" target="_blank" rel="noopener noreferrer">Enhanced Mid-Infrared Single-Photon Detection with Antenna-Coupled Superconducting Nanowires</a><br>
+5. <a href="https://pubs.acs.org/nalefd/article/doi/10.1021/acs.nanolett.6c01917/5235269/Enhanced-Mid-Infrared-Single-Photon-Detection-with" target="_blank" rel="noopener noreferrer">Enhanced Mid-Infrared Single-Photon Detection with Antenna-Coupled Superconducting Nanowires</a><br>
 &nbsp;&nbsp;&nbsp;<strong>D.J. Paul</strong>, S. Koppell, G.G. Taylor, B. Korzh, S.R. Patel, A.D. Beyer, E.E. Wollman, M.D. Shaw, P.D. Keathley, and K.K. Berggren<br>
 &nbsp;&nbsp;&nbsp;<em>Nano Letters</em> (2026)<br>
 
